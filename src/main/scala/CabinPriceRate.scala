@@ -1,0 +1,1 @@
+case class CabinPriceRate(rate: Rate, price: CabinPrice)
